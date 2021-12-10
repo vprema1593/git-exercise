@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "First commit"
+git remote add origin https://github.com/vprema1593/git-exercise.git
+git push -u origin main
